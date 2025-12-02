@@ -1,10 +1,12 @@
+
 body {
     background-color: #050505; 
     color: #ffffff; 
     font-family: 'Courier New', Courier, monospace; 
-    text-align: center;
+    text-align: center; 
     padding-top: 50px;
 }
+
 
 .cyber-card {
     background-color: #1a1a1a; 
@@ -12,6 +14,7 @@ body {
     width: 300px; 
     margin: 0 auto; 
     padding: 20px;
+    
     
     box-shadow: 0 0 20px #00ff41; 
     border-radius: 15px; 
@@ -78,5 +81,4 @@ a:hover {
     0% { opacity: 1; }
     50% { opacity: 0.3; }
     100% { opacity: 1; }
-
 }
